@@ -5,3 +5,11 @@
 
 https://geojackass.github.io/tepco_opendata/shizuoka_univ/prerequisties.html
 
+
+matplotlib版
+https://geojackass.github.io/tepco_opendata/shizuoka_univ/shizuoka_20180201.html
+
+plotly版
+https://geojackass.github.io/tepco_opendata/
+- 静岡大学のネットワークを使用するとplotlyが使えないようです。
+
